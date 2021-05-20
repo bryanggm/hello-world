@@ -1,0 +1,52 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<atom:link href="https://feeds.simplecast.com/ji_2HEqz" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+<atom:link xmlns="http://www.w3.org/2005/Atom" href="https://simplecast.superfeedr.com/" rel="hub"/>
+<generator>https://simplecast.com</generator>
+<title>BryanMcWhorterTestPodcast</title>
+<description>BryanMcWhorterTestPodcast</description>
+<copyright>2021</copyright>
+<language>en</language>
+<pubDate>Thu, 20 May 2021 17:22:25 +0000</pubDate>
+<lastBuildDate>Thu, 20 May 2021 17:22:35 +0000</lastBuildDate>
+<image>
+<link>https://bryanmcwhortertestpodcast.simplecast.com</link>
+<title>BryanMcWhorterTestPodcast</title>
+</image>
+<link>https://bryanmcwhortertestpodcast.simplecast.com</link>
+<itunes:type>episodic</itunes:type>
+<itunes:summary>BryanMcWhorterTestPodcast</itunes:summary>
+<itunes:author>Bryan McWhorter</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:new-feed-url>https://feeds.simplecast.com/ji_2HEqz</itunes:new-feed-url>
+<itunes:owner>
+<itunes:name>Bryan McWhorter</itunes:name>
+<itunes:email>bryan.mcwhorter@knobbe.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Education">
+<itunes:category text="How To"/>
+</itunes:category>
+<item>
+<guid isPermaLink="false">7377cb0e-a685-4ed0-a5ed-e3ce804d4718</guid>
+<title>Episode One</title>
+<description>
+<![CDATA[ <p>Episode One</p> ]]>
+</description>
+<pubDate>Thu, 20 May 2021 17:22:25 +0000</pubDate>
+<author>bryan.mcwhorter@knobbe.com (Bryan McWhorter)</author>
+<link>https://bryanmcwhortertestpodcast.simplecast.com/episodes/test-LjxJsVaw</link>
+<content:encoded>
+<![CDATA[ <p>Episode One</p> ]]>
+</content:encoded>
+<enclosure length="96246" type="audio/mpeg" url="https://cdn.simplecast.com/audio/1fb84031-3fff-4bc1-8b7a-89039c53e820/episodes/2b1c8b9b-014a-4d2d-916d-0b46f4b1a0b3/audio/4ec91af0-5081-4f30-83a1-833d08f4dac2/default_tc.mp3?aid=rss_feed&feed=ji_2HEqz"/>
+<itunes:title>Episode One</itunes:title>
+<itunes:author>Bryan McWhorter</itunes:author>
+<itunes:duration>00:01:00</itunes:duration>
+<itunes:summary>Episode One</itunes:summary>
+<itunes:subtitle>Episode One</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
